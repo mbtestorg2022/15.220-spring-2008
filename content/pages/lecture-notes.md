@@ -12,16 +12,117 @@ I typically "harvest" a set of quotes from the blogs to incorporate in my class 
 
 (In the notes for sessions 6, 8, and 10, all blog quotes are courtesy of the students named, and are used with permission.)
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | The changing global landscape ([PDF]({{< baseurl >}}/resources/lec1)) |
-| 2 | Linking national and firm-level advantage ([PDF]({{< baseurl >}}/resources/lec2)) |
-| 3 | Local strength to global advantage ([PDF]({{< baseurl >}}/resources/lec3)) |
-| 4 | Building a global business ([PDF]({{< baseurl >}}/resources/lec4)) |
-| 5 | Cross-border arbitrage and outsourcing ([PDF]({{< baseurl >}}/resources/lec5)) |
-| 6 | Expanding from new regions ([PDF]({{< baseurl >}}/resources/lec6)) |
-| 7 | Responding to strategic threats from late movers ([PDF]({{< baseurl >}}/resources/lec7)) (Courtesy of Elena Obukhova. Used with permission.) |
-| 8 | Managing integration and responsivess ([PDF]({{< baseurl >}}/resources/lec8)) |
-| 9 | Integrating global manufacturing and product development ([PDF]({{< baseurl >}}/resources/lec9)) (Courtesy of Elena Obukhova. Used with permission.) |
-| 10 | Integrating global supply and marketing chains ([PDF]({{< baseurl >}}/resources/lec10)) |
-| 11 | Global leadership ([PDF]({{< baseurl >}}/resources/lec11))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The changing global landscape ([PDF]({{< baseurl >}}/resources/lec1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Linking national and firm-level advantage ([PDF]({{< baseurl >}}/resources/lec2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Local strength to global advantage ([PDF]({{< baseurl >}}/resources/lec3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Building a global business ([PDF]({{< baseurl >}}/resources/lec4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Cross-border arbitrage and outsourcing ([PDF]({{< baseurl >}}/resources/lec5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Expanding from new regions ([PDF]({{< baseurl >}}/resources/lec6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Responding to strategic threats from late movers ([PDF]({{< baseurl >}}/resources/lec7)) (Courtesy of Elena Obukhova. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Managing integration and responsivess ([PDF]({{< baseurl >}}/resources/lec8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating global manufacturing and product development ([PDF]({{< baseurl >}}/resources/lec9)) (Courtesy of Elena Obukhova. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating global supply and marketing chains ([PDF]({{< baseurl >}}/resources/lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Global leadership ([PDF]({{< baseurl >}}/resources/lec11))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

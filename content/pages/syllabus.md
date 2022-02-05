@@ -34,11 +34,56 @@ Requirements
 
 The requirements for the course and the contribution of each towards the final grade are:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Written assignments | 30% |
-| Integrative "Deep Dive" presentation | 30% |
-|  {{< br >}}{{< br >}} Class participation: {{< br >}}{{< br >}} Individual participation and discussion (20%) {{< br >}}{{< br >}} Group postings to blog (20%) {{< br >}}{{< br >}}  | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Integrative "Deep Dive" presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class participation:
+
+Individual participation and discussion (20%)
+
+Group postings to blog (20%)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 

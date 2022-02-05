@@ -9,19 +9,120 @@ This section contains handouts that include learning objectives and discussion q
 Discussion Questions
 --------------------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | The changing global landscape ([PDF]({{< baseurl >}}/resources/assn1)) |
-| 2 | Linking national and firm-level advantage ([PDF]({{< baseurl >}}/resources/assn2)) |
-| 3 | Local strength to global advantage ([PDF]({{< baseurl >}}/resources/assn3)) |
-| 4 | Building a global business ([PDF]({{< baseurl >}}/resources/assn4)) |
-| 5 | Cross-border arbitrage and outsourcing ([PDF]({{< baseurl >}}/resources/assn5)) |
-| 6 | Expanding from new regions ([PDF]({{< baseurl >}}/resources/assn6)) |
-| 7 | Responding to strategic threats from late movers ([PDF]({{< baseurl >}}/resources/assn7)) |
-| 8 | Managing integration and responsivess ([PDF]({{< baseurl >}}/resources/assn8)) |
-| 9 | Integrating global manufacturing and product development ([PDF]({{< baseurl >}}/resources/assn9)) |
-| 10 | Integrating global supply and marketing chains ([PDF]({{< baseurl >}}/resources/assn10)) |
-| 11 | Global leadership ([PDF]({{< baseurl >}}/resources/assn11)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The changing global landscape ([PDF]({{< baseurl >}}/resources/assn1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Linking national and firm-level advantage ([PDF]({{< baseurl >}}/resources/assn2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Local strength to global advantage ([PDF]({{< baseurl >}}/resources/assn3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Building a global business ([PDF]({{< baseurl >}}/resources/assn4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Cross-border arbitrage and outsourcing ([PDF]({{< baseurl >}}/resources/assn5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Expanding from new regions ([PDF]({{< baseurl >}}/resources/assn6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Responding to strategic threats from late movers ([PDF]({{< baseurl >}}/resources/assn7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Managing integration and responsivess ([PDF]({{< baseurl >}}/resources/assn8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating global manufacturing and product development ([PDF]({{< baseurl >}}/resources/assn9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating global supply and marketing chains ([PDF]({{< baseurl >}}/resources/assn10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Global leadership ([PDF]({{< baseurl >}}/resources/assn11))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Written Assignments
 -------------------
